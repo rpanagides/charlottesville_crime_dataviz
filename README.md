@@ -7,6 +7,6 @@ Additionally, the embedded URL for this notebook can be viewed here: https://obs
 I focused on the period from 05/04/2019 to 01/04/2024, mapping out common walking routes to and from the hospital from three distinct apartments where I lived while working as a nurse. I sourced the data from the Charlottesville Police Department website. Although the original police data did not include longitude and latitude columns, I used the GoogleMaps API to convert the address included in the dataset to the corresponding longitudes and latitudes. 
 
 # Static Visualization of My Work
-![Alt text](image_url)
+![Alt text](https://github.com/rpanagides/charlottesville_crime_data/blob/main/actual_final_dataviz.pdf)
 
 
